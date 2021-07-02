@@ -1,5 +1,5 @@
 # DReader
-a project of codereader
+A project of CodeReader
 
 ## Environment Prepare
 
